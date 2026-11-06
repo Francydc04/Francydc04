@@ -29,7 +29,7 @@
   <tr>
     <td width="45%">
       <a href="https://github.com/Francydc04/madrid-air-quality">
-        <img src="https://raw.githubusercontent.com/Francydc04/madrid-air-quality/main/images/pollution_geography.png" alt="Mean NO2 by monitoring station on the Madrid sensor network"/>
+        <img src="https://raw.githubusercontent.com/Francydc04/madrid-air-quality/main/images/month_hour_heatmap.png" alt="Madrid NO2 by month and hour of day"/>
       </a>
     </td>
     <td>
