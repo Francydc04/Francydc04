@@ -82,6 +82,20 @@
       <code>scikit-learn</code> <code>clustering</code> <code>unsupervised learning</code> <code>pytest</code>
     </td>
   </tr>
+  <tr>
+    <td width="45%">
+      <a href="https://github.com/Francydc04/qs-rankings-sql">
+        <img src="https://raw.githubusercontent.com/Francydc04/qs-rankings-sql/main/images/indicator_correlation.png" alt="Correlation of each QS indicator with the overall score"/>
+      </a>
+    </td>
+    <td>
+      <b><a href="https://github.com/Francydc04/qs-rankings-sql">Relational Modelling and SQL Analytics of the QS World University Rankings</a></b><br/>
+      <sub>December 2024, revised November 2026</sub><br/><br/>
+      Normalised 8-table schema for 1,497 universities, analytical SQL with CTEs and window functions, Python loader and tests.
+      Finding: <b>academic reputation correlates 0.91 with the overall score</b>, against 0.52 for research citations.<br/><br/>
+      <code>SQL</code> <code>SQLite</code> <code>Python</code> <code>pytest</code>
+    </td>
+  </tr>
 </table>
 
 <!-- off-screen line: to write later -->
