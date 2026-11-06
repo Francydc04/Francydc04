@@ -33,7 +33,8 @@
       </a>
     </td>
     <td>
-      <b><a href="https://github.com/Francydc04/madrid-air-quality">Madrid Air Quality, 2001–2024: Data Quality, Sensor Networks and NO₂ Forecasting</a></b><br/><br/>
+      <b><a href="https://github.com/Francydc04/madrid-air-quality">Madrid Air Quality, 2001–2024: Data Quality, Sensor Networks and NO₂ Forecasting</a></b><br/>
+      <sub>May 2026</sub><br/><br/>
       24 years of hourly data from 24 stations (~64M rows): imputation, sensor networks, parallel computing and an XGBoost forecast.
       Finding: <b>NO₂ more than halved since 2001</b>, while ozone rose.<br/><br/>
       <code>Python</code> <code>XGBoost</code> <code>NetworkX</code> <code>time series</code>
@@ -46,7 +47,8 @@
       </a>
     </td>
     <td>
-      <b><a href="https://github.com/Francydc04/oralb-store-targeting">Store-Level Targeting for a Geolocated Oral-B Campaign: Random Forest with Bootstrap Cut-off Selection</a></b><br/><br/>
+      <b><a href="https://github.com/Francydc04/oralb-store-targeting">Store-Level Targeting for a Geolocated Oral-B Campaign: Random Forest with Bootstrap Cut-off Selection</a></b><br/>
+      <sub>November–December 2025</sub><br/><br/>
       Random forest + 200 bootstrap samples to pick which Italian stores to activate for an Oral-B campaign.
       Recommended plan: <b>296 stores, €282K expected profit</b>.<br/><br/>
       <code>KNIME</code> <code>Power BI</code> <code>machine learning</code>
@@ -59,7 +61,8 @@
       </a>
     </td>
     <td>
-      <b><a href="https://github.com/Francydc04/nyc-taxi-algorithms">Empirical Complexity of Sorting and Graph Search Algorithms on NYC Taxi Trip Data</a></b><br/><br/>
+      <b><a href="https://github.com/Francydc04/nyc-taxi-algorithms">Empirical Complexity of Sorting and Graph Search Algorithms on NYC Taxi Trip Data</a></b><br/>
+      <sub>May 2024</sub><br/><br/>
       Six sorting algorithms and DFS/BFS written from scratch, benchmarked on 100,000 taxi trips and tested against Python and NetworkX.
       Finding: <b>at 20,000 trips, bubble sort takes 15 s and quick sort 0.017 s</b>, but on already-sorted data the ranking flips.<br/><br/>
       <code>Python</code> <code>algorithms</code> <code>benchmarking</code> <code>pytest</code>
