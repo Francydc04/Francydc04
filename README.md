@@ -52,6 +52,19 @@
       <code>KNIME</code> <code>Power BI</code> <code>machine learning</code>
     </td>
   </tr>
+  <tr>
+    <td width="45%">
+      <a href="https://github.com/Francydc04/nyc-taxi-algorithms">
+        <img src="https://raw.githubusercontent.com/Francydc04/nyc-taxi-algorithms/main/images/runtime_vs_size.png" alt="Runtime of six sorting algorithms vs input size"/>
+      </a>
+    </td>
+    <td>
+      <b><a href="https://github.com/Francydc04/nyc-taxi-algorithms">Empirical Complexity of Sorting and Graph Search Algorithms on NYC Taxi Trip Data</a></b><br/><br/>
+      Six sorting algorithms and DFS/BFS written from scratch, benchmarked on 100,000 taxi trips and tested against Python and NetworkX.
+      Finding: <b>at 20,000 trips, bubble sort takes 15 s and quick sort 0.017 s</b>, but on already-sorted data the ranking flips.<br/><br/>
+      <code>Python</code> <code>algorithms</code> <code>benchmarking</code> <code>pytest</code>
+    </td>
+  </tr>
 </table>
 
 <!-- off-screen line: to write later -->
