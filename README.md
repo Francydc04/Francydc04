@@ -23,9 +23,22 @@
 ![KNIME](https://img.shields.io/badge/KNIME-FDD800?style=for-the-badge)
 ![Excel modelling](https://img.shields.io/badge/Excel%20modelling-217346?style=for-the-badge)
 
-### Featured project
+### Featured projects
 
 <table>
+  <tr>
+    <td width="45%">
+      <a href="https://github.com/Francydc04/madrid-air-quality">
+        <img src="https://raw.githubusercontent.com/Francydc04/madrid-air-quality/main/images/month_hour_heatmap.png" alt="Madrid NO2 by month and hour of day"/>
+      </a>
+    </td>
+    <td>
+      <b><a href="https://github.com/Francydc04/madrid-air-quality">What drives air pollution in Madrid, and can we forecast it?</a></b><br/><br/>
+      24 years of hourly data from 24 stations (~64M rows): imputation, sensor networks, parallel computing and an XGBoost forecast.
+      Finding: <b>NO₂ more than halved since 2001</b>, while ozone rose.<br/><br/>
+      <code>Python</code> <code>XGBoost</code> <code>NetworkX</code> <code>time series</code>
+    </td>
+  </tr>
   <tr>
     <td width="45%">
       <a href="https://github.com/Francydc04/oralb-store-targeting">
