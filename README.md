@@ -85,7 +85,7 @@
   <tr>
     <td width="45%">
       <a href="https://github.com/Francydc04/qs-rankings-sql">
-        <img src="https://raw.githubusercontent.com/Francydc04/qs-rankings-sql/main/images/indicator_correlation.png" alt="Correlation of each QS indicator with the overall score"/>
+        <img src="https://raw.githubusercontent.com/Francydc04/qs-rankings-sql/main/images/er_diagram.png" alt="Entity-relationship schema of the QS rankings database"/>
       </a>
     </td>
     <td>
