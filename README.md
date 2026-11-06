@@ -68,6 +68,20 @@
       <code>Python</code> <code>algorithms</code> <code>benchmarking</code> <code>pytest</code>
     </td>
   </tr>
+  <tr>
+    <td width="45%">
+      <a href="https://github.com/Francydc04/alien-galaxy-clustering">
+        <img src="https://raw.githubusercontent.com/Francydc04/alien-galaxy-clustering/main/images/segments_pca.png" alt="Two segments in principal-component space"/>
+      </a>
+    </td>
+    <td>
+      <b><a href="https://github.com/Francydc04/alien-galaxy-clustering">Comparative Evaluation of Clustering Methods: Imputation, Model Selection and Stability</a></b><br/>
+      <sub>January 2025, revised November 2026</sub><br/><br/>
+      K-Means, Ward, Gaussian mixtures and DBSCAN compared on 2,240 records, with benchmarked KNN imputation and bootstrap stability.
+      Finding: <b>two stable segments (ARI 0.97)</b>; the original "best" DBSCAN result was an artefact of one near-constant feature.<br/><br/>
+      <code>scikit-learn</code> <code>clustering</code> <code>unsupervised learning</code> <code>pytest</code>
+    </td>
+  </tr>
 </table>
 
 <!-- off-screen line: to write later -->
