@@ -96,6 +96,20 @@
       <code>SQL</code> <code>SQLite</code> <code>Python</code> <code>pytest</code>
     </td>
   </tr>
+  <tr>
+    <td width="45%">
+      <a href="https://github.com/Francydc04/mlb-salary-tier-models">
+        <img src="https://raw.githubusercontent.com/Francydc04/mlb-salary-tier-models/main/images/relative_value.png" alt="Actual salary against model-implied salary for MLB hitters"/>
+      </a>
+    </td>
+    <td>
+      <b><a href="https://github.com/Francydc04/mlb-salary-tier-models">Ordinal versus Multinomial Models of MLB Salary Tiers: Regularisation, Calibration and Relative-Value Residuals</a></b><br/>
+      <sub>March 2025, revised November 2026</sub><br/><br/>
+      Salary priced as a function of performance factors and contract regime: seven models under 20&times;10-fold CV, Brant test, bootstrap marginal effects and a mispricing screen.
+      Finding: <b>career length gets players out of the bottom quartile, current-season output decides the top</b>; ordinal logit cuts log-loss from 1.03 to 0.80.<br/><br/>
+      <code>R</code> <code>glmnet</code> <code>MASS</code> <code>sandwich</code> <code>ggplot2</code> <code>testthat</code>
+    </td>
+  </tr>
 </table>
 
 <!-- off-screen line: to write later -->
