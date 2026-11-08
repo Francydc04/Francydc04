@@ -33,7 +33,7 @@
       </a>
     </td>
     <td>
-      <b><a href="https://github.com/Francydc04/italy-tech-opportunity-model">Integrating Four Institutional Reports into a Relational Model of Technology Opportunity in Italy</a></b><br/>
+      <b><a href="https://github.com/Francydc04/italy-tech-opportunity-model">Data-First Technology Scouting: Turning Unstructured Reports into a Scored SQL Model of Venture Opportunities in Italy</a></b><br/>
       <sub>December 2025 – April 2026 · Venture Bottega internship, rebuilt November 2026</sub><br/><br/>
       Data-first: 539 pages of WEF, ASPI, Future of Jobs and Italian VC reports extracted by hand into 117 traceable records, joined through a canonical crosswalk and scored in SQL.
       Finding: <b>AI &amp; Machine Learning ranks first under all 10,000 weight scenarios tested</b>; a multiplicative coverage penalty mis-tiered 7 of 13 technologies.<br/><br/>
