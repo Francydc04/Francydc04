@@ -28,6 +28,20 @@
 <table>
   <tr>
     <td width="45%">
+      <a href="https://github.com/Francydc04/italy-tech-opportunity-model">
+        <img src="https://raw.githubusercontent.com/Francydc04/italy-tech-opportunity-model/main/images/crosswalk_flow.png" alt="Crosswalk from four report datasets to thirteen canonical technologies"/>
+      </a>
+    </td>
+    <td>
+      <b><a href="https://github.com/Francydc04/italy-tech-opportunity-model">Integrating Four Institutional Reports into a Relational Model of Technology Opportunity in Italy</a></b><br/>
+      <sub>December 2025 – April 2026 · Venture Bottega internship, rebuilt November 2026</sub><br/><br/>
+      Data-first: 539 pages of WEF, ASPI, Future of Jobs and Italian VC reports extracted by hand into 117 traceable records, joined through a canonical crosswalk and scored in SQL.
+      Finding: <b>AI &amp; Machine Learning ranks first under all 10,000 weight scenarios tested</b>; a multiplicative coverage penalty mis-tiered 7 of 13 technologies.<br/><br/>
+      <code>SQL</code> <code>SQLite</code> <code>Python</code> <code>pandas</code> <code>pytest</code> <code>Data modelling</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="45%">
       <a href="https://github.com/Francydc04/madrid-air-quality">
         <img src="https://raw.githubusercontent.com/Francydc04/madrid-air-quality/main/images/month_hour_heatmap.png" alt="Madrid NO2 by month and hour of day"/>
       </a>
