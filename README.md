@@ -1,8 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:534AB7,100:1D9E75&height=170&section=header&text=Francesca%20D'Aloia%20Cascone&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Finance%20%C2%B7%20Data%20%C2%B7%20AI&descSize=16&descAlignY=58" width="100%"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=534AB7&center=true&vCenter=true&width=620&lines=MiM+Finance+student+%40+EDHEC;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+KNIME;Data+analysis+for+fintech+and+digital+assets" alt="Typing intro"/>
-</p>
+<img src="assets/header.svg" alt="Francesca D'Aloia Cascone · Finance · Data · Quantitative methods" width="100%"/>
 
 <!-- intro: to write later -->
 
@@ -133,4 +129,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/francesca-daloia-cascone)
 [![Email](https://img.shields.io/badge/Email-534AB7?style=for-the-badge)](mailto:francydc04@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:534AB7,100:1D9E75&height=90&section=footer" width="100%"/>
