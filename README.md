@@ -129,3 +129,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/francesca-daloia-cascone)
 [![Email](https://img.shields.io/badge/Email-534AB7?style=for-the-badge)](mailto:francydc04@gmail.com)
 
+<img src="assets/footer.svg" alt="Project ticker" width="100%"/>

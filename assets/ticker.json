@@ -1,0 +1,9 @@
+[
+  {"name": "DATA-FIRST TECH SCOUTING", "metric": "539 pages → 117 records"},
+  {"name": "MLB SALARY TIERS", "metric": "log-loss 1.03 → 0.80"},
+  {"name": "MADRID AIR QUALITY", "metric": "64M rows · 2001–2024"},
+  {"name": "ORAL-B TARGETING", "metric": "random forest · bootstrap cut-off"},
+  {"name": "CLUSTERING STUDY", "metric": "bootstrap ARI 0.97"},
+  {"name": "QS RANKINGS SQL", "metric": "8-table schema · window functions"},
+  {"name": "NYC TAXI ALGORITHMS", "metric": "6 sorts · graph search"}
+]
